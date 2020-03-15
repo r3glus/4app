@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "reglus-bot",
+  "private_key_id": "ddb7961a3d2c00ae4ae1e12ee53dfd7238105493",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDpQk1MLSo4+lj8\nqxErvC0mC5zqeLENaFTiJg6NE3Zb0TeIF3xpsNnSuAiQ43Pzw7AaBijvSI9hN5hg\nuT98o8rzB4hp0+tcurFach79j0Hz/vsJMtRibyvBIYgHsS9c9kTLqqS3XLxtvcJL\ng7bN/7Yrh9ugcKkBp6ui1ikbX6pxqhRvpSNmO5FRu5UYMMG32qBUp6nock0Ut98j\nWi8xmtCMsHQd4s2ybxsLrhvdKbkMx/HvGrFOfyJ94a3feOnKcWBnZH8rBnKs+3q3\no526CjRVsBI/uGXS5dZAMALRIaEfPaX538ufSKrLzHQQQ3E8GpiNHiq5lk2alhsE\nj/a46193AgMBAAECggEADy0pKlOl858WOxpGO7o6lccbpoXDv0OSgkRHnhYuFTs/\nibM9fQLsqTEgHY0u9iU9R/QupaLq8UBUwbZL0yg1BCrxTTFkltvuvhu+uHChseZd\nHvQXrW/eQOqVlyqIElxTjYzEusll2R4HjjI7qpuAlsR4HbA2zszB9g5JDmbjCBIR\nBd/U6MhMSAFiDhN9d71GHGnywV0YGOM25bwOF2sIaZk/7n5Oul9H9lytk/64LhVM\nvWt9Fgn1aMQR28r4cO2I6Gkl8dAiMUrwzhzT0yZrucMXj+U0jB2C/b00n86ofdyE\nn0IWnYrdHjvbWMc4ZmwJbyIFyWhHp0de6EMAFzt3wQKBgQD1F0G/eWwxD/mamK9t\nLucDvX1U1Lj/zzPYfnpgMJsxAo/sHOfO+pXOQZUvij72uZ/AjC9JqNDoJ1XOxxtG\nl4A2dbzcwJ13mZGPWpAbh0HHUaQeKrLUV6C0WIGNcosKX6vzZ8VkgmP5NscVn6/P\nl8N43m+NDA3YvMu38s76D8mPcwKBgQDzpDlv5Ur9S/v4m/2D5AtGg/MlzwzJT2c4\niczY4bYlvtw8nLQTz4DI2TA4prYn3DGhIhC3w/8xDH3JAnZb4Wmb5gERquK8jRoQ\nSJDAKI/RYzeUzaaus1dv/69G9a+L6Q3yOVM0tBld8akOboBZQhe7lvCaHB4/GWgI\ny4P3uT+m7QKBgQDDb0cjSsyGFun/Z89DLgpShjBBi9r1SSFbegdVWoz1uMhRC/+g\noVsBfHRc000/6mbD4ET45J+o72zSFRzf3oEDbEEsen9WVmOmvx14hhNiv+wxjfTJ\ntBJWnNi5lOPgYse3sUDK09qqaA66ZHqJ+8eIQz8KZtlHwcxkoz5+UkZ0lwKBgG4P\nYJboiJCV05RBuyrqSCGpl5wbxRXnVaSXsz7B74trhYen7j0Ivo98dSkSPjURZiX5\nAn5Q/qWElAnKn/bvg8qWAyOdA2HTh9OVRDZZ3GXlIQWKROKkRzpj0SUH9S4JsHAc\nbzbeqJrkgM7xIe+wSJJIJBYp34v3iSR38vxj5ZodAoGAAuNniQOiCenaNlbfKaQA\nRMIuJVNErX8sz3LAU26k5QgWvlZA5kApwwUU4bJkv/giIovhNSXiVyvg3d6Js/AY\nZYiI7jlXDBhoY8e3k0PZV/2UHVo6Tzr3hQdH9fQ3vAcMHQKQ/Ia7CIbqbciUXNn7\ng3atoEBJiBN3qNqBKol2rbI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "reglus-bot@reglus-bot.iam.gserviceaccount.com",
+  "client_id": "113981048040342894610",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/reglus-bot%40reglus-bot.iam.gserviceaccount.com"
+}
