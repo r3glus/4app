@@ -59,7 +59,7 @@ def reply(data):
 
     for record in all_records:
         if fake_news_url in record.values():
-            reply_text = "Olá @{handle} O link que você compartilhou não parece ser uma notícia verdadeira! verifique este link {record.get('DEBUNKING')}"
+            reply_text = "Olá @{handle} O link que você compartilhou não parece ser uma notícia verdadeira! Verifique este link {record.get('DEBUNKING')}"
             break
     try:
         tweet_id = data.get('id')
