@@ -1,3 +1,5 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 import os
 import random
 import time
@@ -30,7 +32,7 @@ def spreadsheet():
     creds = ServiceAccountCredentials.from_json_keyfile_name(
         'Reglus-bot.json', scope)
     client = gspread.authorize(creds)
-    sheet = client.open("Reglus Bot").sheet1
+    sheet = client.open("Reglus Heroku").sheet1
     return sheet
 
 
@@ -57,7 +59,7 @@ def reply(data):
 
     for record in all_records:
         if fake_news_url in record.values():
-            reply_text = f"Olá @{handle} O link que você compartilhou não parece ser uma notícia verdadeira! verifique este link {record.get('DEBUNKING')}"
+            reply_text = "Olá @{handle} O link que você compartilhou não parece ser uma notícia verdadeira! verifique este link {record.get('DEBUNKING')}"
             break
     try:
         tweet_id = data.get('id')
